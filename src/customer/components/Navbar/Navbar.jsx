@@ -39,7 +39,7 @@ return (
         aria-haspopup="true"
         aria-expanded={openMenu ? 'true' : undefined}
                  onClick={false?handleOpenMenu:navigateToProfile} className="font-semibold cursor-pointer">
-                    Code with Aman
+                    Aman
                     </span>: 
                     <IconButton>
                         <PersonIcon sx={{fontSize:"1.5rem"}} />
